@@ -1,3 +1,4 @@
 hi this is mac
 hi this is gits
 hi thsi is ssh
+git config --global credential.helper wincred
