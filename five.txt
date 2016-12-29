@@ -8,4 +8,5 @@ hi this is new config file
 applying stash
 fetching data
 git config --global credential.helper wincred
+git reset --hard head
 
