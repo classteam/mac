@@ -4,4 +4,5 @@ hi thsi is ssh 123456
 git config --global credential.helper wincred
 this is to test stash
 hi this is lenovo-pc
+hi this is new config file
 
