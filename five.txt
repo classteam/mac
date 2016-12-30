@@ -10,4 +10,4 @@ fetching data
 git config --global credential.helper wincred
 git reset --hard head
 git stash list
-
+git clone
