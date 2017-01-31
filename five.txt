@@ -5,7 +5,7 @@ git config --global credential.helper wincred
 this is to test stash
 hi this is lenovo-pc
 hi this is new config file
-applying stash
+applying fork
 fetching data
 git config --global credential.helper wincred
 git reset --hard head
