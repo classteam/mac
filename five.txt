@@ -12,3 +12,4 @@ git reset --hard head
 git stash list
 git clone
 git ssh
+git deploy key
